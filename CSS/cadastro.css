@@ -6,6 +6,7 @@
   margin-top: 150px;
   text-align: center;
   background: #2a2b38;
+  border-radius: 0.3rem;
  }
  
  /*Inputs*/
@@ -79,4 +80,3 @@
  .btn-link:hover {
   color: #ffeba7;
  }
- 

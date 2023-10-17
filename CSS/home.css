@@ -10,3 +10,20 @@
      -webkit-transform: scale(1.01);
      transform: scale(1.05);
  }
+
+ .container {
+    width: 80%;
+    background-color: rgb(95, 38, 160);
+    margin-top: 30px;
+    margin-left: 10%;
+    border-radius: 0.3rem;
+    text-align: center;
+
+}
+
+.tituloHome {
+    color: white;
+    padding: 10px 0 10px 0;
+    font-size: 25px;
+}
+

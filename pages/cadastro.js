@@ -2,14 +2,14 @@ import React from 'react'
 
 import Header from "../components/header"
 import Footer from "../components/footer"
-import Login from "../components/login"
+import Cadastro from "../components/cadastro"
 
 
-export default function login() {
+export default function cadastro() {
   return (
     <>
-       <Header/>
-        <Login/>
+        <Header/>
+        <Cadastro/>
         <Footer/>
     </>
   )

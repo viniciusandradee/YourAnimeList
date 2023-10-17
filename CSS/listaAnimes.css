@@ -1,0 +1,14 @@
+.cartoes {
+    width: 30%;
+    background-color: rgb(93, 16, 112);
+    margin-left: 35%;
+    margin-top: 30px;
+    border-radius: 0.3rem;
+    color: white;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+.cartao {
+    margin-top: 30px;
+}

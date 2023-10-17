@@ -12,22 +12,22 @@ export default function Header(){
         <>
             <header>
                 <Link href="/"><Image src={Chiquita} className="logo"/></Link>
-                <Link href="/"><p className='tituloHeader'>Ricardo Lanches</p></Link>
+                <Link href="/"><p className='tituloHeader'>Mega Animes</p></Link>
                 <nav>
                     
                     <ul>
                          
                         <li className='navega'>
                         
-                            <Link className='links' href="/">Criar conta</Link>
+                            <Link className='links' href="/login">Login</Link>
                
                         </li>
                         <li className='navega'>
-                            <Link className='links' href="/login">Acessar conta
+                            <Link className='links' href="/cadastro">SignUp
                             </Link>
                         </li>
                         <li className='navega'>
-                            <Link className='links' href="/">Sobre nós</Link>
+                            <Link className='links' href="/sobreNos">Sobre nós</Link>
                             
                         </li>  
                         

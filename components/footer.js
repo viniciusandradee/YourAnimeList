@@ -6,10 +6,9 @@ export default function Footer() {
   return (
     <>
     <footer>
-            <div class="Corpoft">
+            <div className="Corpoft">
                 <div className='texto'>
-                    <h5 class="titulo">Instituto de Química - UFRN</h5>
-                    <p class="card-text">
+                    <p className="card-text">
                         Leonardo Bruno de Sousa - RM 552408
                         <br/>
                         Marco Antônio Araújo - RM 550128
